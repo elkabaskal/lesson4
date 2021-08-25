@@ -39,7 +39,7 @@ function getMyObject(inputNumber) {
 getMyObject(555); */
 
 
-
+//Задание 2
 
 const card = {
     goods: [{
